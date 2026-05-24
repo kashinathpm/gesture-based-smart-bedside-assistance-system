@@ -76,7 +76,29 @@ Assistive Communication Devices
 Emergency Alert Systems
 Wearable Healthcare Systems
 ## Future Improvements
+Wireless nurse notification system
 
+IoT-based remote monitoring
+
+Mobile application connectivity
+
+Voice assistance integration
+
+Cloud-based emergency alert system
+
+Battery-powered portable version
+
+AI-based gesture recognition
+
+Wireless communication using Bluetooth or Wi-Fi
+
+Integration with hospital automation systems
+
+Real-time patient monitoring features
+
+Smart wearable implementation
+
+Multi-language audio feedback system
 ## Usage Instructions
 1. Power the Myosa ESP-based controller.
 2. Hold the device in hand.
@@ -84,7 +106,8 @@ Wearable Healthcare Systems
 4. Observe the OLED display and buzzer alerts.
 5. Use different gestures for different assistance requests.
 ## Demo Video
-
+Use this Google drive link to access the demo video:
+https://drive.google.com/drive/folders/1-ij4-cbTT140rmAECP4C3A7zGD0cQbMa?usp=sharing
 ## Conclusion
 The Gesture-Based Smart Bedside Assistance System demonstrates a low-cost and effective assistive embedded solution for differently abled and bedridden individuals.
 
