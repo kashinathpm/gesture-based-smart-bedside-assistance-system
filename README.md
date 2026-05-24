@@ -57,10 +57,10 @@ Buzzer (-)   → GND
 ## Gesture Mapping
 | Gesture | Output Message | Buzzer Pattern |
 |---|---|---|
-| Left Tilt | WATER | Single Beep |
-| Right Tilt | FOOD | Double Beep |
-| Forward Tilt | MEDICINE | Triple Beep |
-| Backward Tilt | HELP | Long Beep |
+| Left Tilt | FOOD | Single Beep |
+| Right Tilt | WATER | Double Beep |
+| Forward Tilt | HELP | Triple Beep |
+| Backward Tilt | MEDICINE | Long Beep |
 | Strong Shake | EMERGENCY | Rapid Alert Beeps |
 ## Working Principle
 The MPU6500 sensor continuously reads acceleration and motion data from the system. Based on the tilt direction and motion intensity, predefined gesture conditions are detected.
